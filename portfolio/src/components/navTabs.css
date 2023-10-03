@@ -1,7 +1,15 @@
+/* unordered list of tabs sin the navigation bar */
 .nav-tabs {
     background-color: #EAE0D5;
+    margin: 0%;
+    padding: 5% 5%;
+    border: none;
+    width: 100%;
+    text-align: right;
+    list-style-type: none;
+}
+
     /* DELFT BLUE -- color: #273469
     ALMOND -- color: #EAE0D5;
     KHAKI -- color: #C6AC8F;
     PAYNE'S GRAY -- color: #585F75; */
-}
