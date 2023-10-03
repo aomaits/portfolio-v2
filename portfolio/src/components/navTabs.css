@@ -2,13 +2,18 @@
 .nav-tabs {
     background-color: #EAE0D5;
     margin: 0%;
-    padding: 5% 5%;
-    border: none;
-    width: 100%;
-    text-align: right;
+    padding: 1rem;
     list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 5%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
+.nav-item {
+
+    /* background-color: black; */
+}
     /* DELFT BLUE -- color: #273469
     ALMOND -- color: #EAE0D5;
     KHAKI -- color: #C6AC8F;
