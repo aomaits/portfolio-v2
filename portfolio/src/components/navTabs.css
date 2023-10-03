@@ -10,6 +10,22 @@
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
+
+
+.nav-tabs a:visited {
+    color: #273469;
+    text-decoration: none;
+}
+
+.nav-tabs a:link {
+    color: #273469;
+    text-decoration: none;
+}
+
+.nav-tabs a:active {
+    background-color: #585F75;
+}
+
 .nav-item {
 
     /* background-color: black; */
