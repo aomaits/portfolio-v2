@@ -1,9 +1,11 @@
 import React from 'react';
+import AbeImage from '../components/AbeImage/AbeImage';
 
 export default function About() {
   return (
     <div>
-      {/* break out a component for the image? */}
+      <AbeImage>
+      </AbeImage>
       <h1>About Page</h1>
       <p>
         Sample About me
