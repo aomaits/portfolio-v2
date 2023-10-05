@@ -1,9 +1,12 @@
-.about-page {
-    background-color: #EAE0D5; /* Almond to match the nav bar */
-    position: relative;
-    color: #273469;
+.h {
+    font-weight: 900;
+    
 }
 
+.i {
+    font-weight: 900;
+    display: none;
+}
 
     /* DELFT BLUE -- color: #273469
     ALMOND -- color: #EAE0D5;

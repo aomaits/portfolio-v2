@@ -13,3 +13,9 @@
     min-width: 250px;
     margin-top: -30%;
 }
+
+@media screen and (max-width: 780px) {
+    /* .photoHolder{clip-path: circle(10%);} */
+    /* .abePhoto{max-width: 750px}; */
+    /* .abePhoto{bottom: -1rem;}; */
+}
