@@ -8,21 +8,27 @@
     justify-content: flex-end;
     gap: 5%;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    min-width: 100%;
 }
 
+/* overwriting link formatting */
 .nav-tabs a:visited {
     color: #273469;
     text-decoration: none;
 }
 
+/* overwriting link formatting */
 .nav-tabs a:link {
     color: #273469;
     text-decoration: none;
 }
 
+/* overwriting link formatting */
 .nav-tabs a:active {
     background-color: #585F75;
+}
+
+.nav-container {
+    width: 100%;  /*to prevent nav bar from spilling over */
 }
 
 .nav-item {

@@ -1,15 +1,18 @@
 import React from 'react';
 import AbeImage from '../components/AbeImage/AbeImage';
+import AboutIntro from '../components/AboutIntro/AboutIntro';
+import './styles/about.css'
 
 export default function About() {
   return (
-    <div>
+    <div className='about-page'>
       <AbeImage>
       </AbeImage>
-      <h1>About Page</h1>
+      <AboutIntro>
+      </AboutIntro>
       <p>
-        Sample About me
+        Software Developer
       </p>
     </div>
   );
-}
+};
